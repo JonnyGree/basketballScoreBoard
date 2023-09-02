@@ -10,7 +10,7 @@ function home1() {
     homeEl.textContent = homeScore  
 }
 
-function home2() {
+function homeone() {
     homeScore += 2
     homeEl.textContent = homeScore
 }
