@@ -7,7 +7,6 @@ let guestScore = 0
 
 function home1() {
     homeScore += 1
-    console.log(homeScore)
     homeEl.textContent = homeScore  
 }
 
