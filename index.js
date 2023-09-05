@@ -1,7 +1,5 @@
 let homeEl = document.getElementById("homeScore")
 let guestEl = document.getElementById("guestScore")
-
-
 let homeScore = 0
 let guestScore = 0
 
